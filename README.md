@@ -2,8 +2,12 @@
 
 ## Reposiory ini berisi pengalaman Belajar di Dicoding
 
-_17 Agustus 2023 | Belajar matrikulasi_
+_16 Agustus 2023 | Belajar matrikulasi_
+- Belajar Git dengan Github
+- Dasar Pemrograman Menjadi Pengembang Software
+- Logika Pemrograman
 
-- Belahjar Git dengan Github
+_17 Agustus 2023 | Belajar matrikulasi_
+- Belajar Git dengan Github
 - Dasar Pemrograman Menjadi Pengembang Software
 - Logika Pemrograman
